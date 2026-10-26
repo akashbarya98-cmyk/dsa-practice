@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3945-digit-frequency-score) |
+## String
+|  |
+| ------- |
+| [1108-defanging-an-ip-address](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
