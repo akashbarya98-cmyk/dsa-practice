@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0575-distribute-candies) |
+| [1748-sum-of-unique-elements](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1748-sum-of-unique-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0575-distribute-candies) |
+| [1748-sum-of-unique-elements](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1748-sum-of-unique-elements) |
 | [3945-digit-frequency-score](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
