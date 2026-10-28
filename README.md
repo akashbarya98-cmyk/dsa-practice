@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
@@ -20,9 +21,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [2469-convert-the-temperature](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3783-mirror-distance-of-an-integer) |
@@ -34,9 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1108-defanging-an-ip-address) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
