@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0575-distribute-candies) |
 | [1748-sum-of-unique-elements](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1929-concatenation-of-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2057-smallest-index-with-equal-value) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
