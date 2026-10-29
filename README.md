@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1929-concatenation-of-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
