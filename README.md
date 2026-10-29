@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2469-convert-the-temperature](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
