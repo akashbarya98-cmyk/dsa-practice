@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2057-smallest-index-with-equal-value) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1748-sum-of-unique-elements) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
