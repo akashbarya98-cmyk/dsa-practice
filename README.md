@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2469-convert-the-temperature](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2469-convert-the-temperature) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Matrix
 |  |
