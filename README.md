@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2469-convert-the-temperature](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3783-mirror-distance-of-an-integer) |
