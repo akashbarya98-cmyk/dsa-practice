@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2469-convert-the-temperature](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2000-reverse-prefix-of-word](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2315-count-asterisks](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2315-count-asterisks) |
 ## Bit Manipulation
