@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2000-reverse-prefix-of-word) |
+| [2315-count-asterisks](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2315-count-asterisks) |
 ## Bit Manipulation
 |  |
 | ------- |
