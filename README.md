@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1748-sum-of-unique-elements) |
 | [3945-digit-frequency-score](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2000-reverse-prefix-of-word) |
