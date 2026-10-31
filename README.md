@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0704-binary-search) |
+| [0911-online-election](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0911-online-election) |
 | [1051-height-checker](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1094-car-pooling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0704-binary-search) |
+| [0911-online-election](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0911-online-election) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0771-jewels-and-stones) |
+| [0911-online-election](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0911-online-election) |
 | [1748-sum-of-unique-elements](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1748-sum-of-unique-elements) |
 | [3945-digit-frequency-score](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/3945-digit-frequency-score) |
 ## String
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1094-car-pooling) |
+## Design
+|  |
+| ------- |
+| [0911-online-election](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0911-online-election) |
 <!---LeetCode Topics End-->
