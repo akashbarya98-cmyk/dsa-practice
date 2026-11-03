@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0877-stone-game) |
 | [0911-online-election](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0911-online-election) |
 | [1051-height-checker](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1094-car-pooling) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -129,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0911-online-election](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0911-online-election) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
