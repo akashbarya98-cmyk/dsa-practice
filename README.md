@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0771-jewels-and-stones) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0633-sum-of-square-numbers](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/1768-merge-strings-alternately) |
@@ -148,10 +150,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/akashbarya98-cmyk/dsa-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
